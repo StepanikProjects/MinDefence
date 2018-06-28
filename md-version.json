@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+{
+  "latest": "0.52",
+  "updateurl": "https://github.com/StepanikProjects/MinDefence/blob/master/MinDefence.luac?raw=true"
+}
+=======
 {
   "latest": "0.51",
   "updateurl": "https://github.com/StepanikProjects/MinDefence/blob/master/MinDefence.luac?raw=true"
 }
+>>>>>>> 02c1671caca2a7c8f9aeba5baf563c79d39e56bf
